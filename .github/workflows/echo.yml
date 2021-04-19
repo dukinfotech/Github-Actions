@@ -1,0 +1,10 @@
+name: CI
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+jobs:
+  Echo A Message:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "New push"
