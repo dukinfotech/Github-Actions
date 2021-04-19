@@ -1,0 +1,22 @@
+{
+  "name": "github-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dukinfotech/Github-Actions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dukinfotech/Github-Actions/issues"
+  },
+  "homepage": "https://github.com/dukinfotech/Github-Actions#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
